@@ -1,2 +1,3 @@
 # collaborate
-board
+
+step 1. django board
